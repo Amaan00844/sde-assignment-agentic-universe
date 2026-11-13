@@ -3,7 +3,7 @@
 ## Candidate
 - **Name:** Amaan
 - **Assignment chosen:** A (Data)
-- **Time spent (honest estimate):** ~8h
+- **Time spent (honest estimate):** ~5h
 
 ## How to run
 ```bash
